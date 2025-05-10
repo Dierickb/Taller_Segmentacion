@@ -166,18 +166,6 @@ visualizer.show_vtk()
 
 ---
 
-## 🖼️ GUI con MATLAB
-
-También puedes usar el sistema desde una interfaz gráfica en MATLAB:
-
-```matlab
-main_gui
-```
-
-> Requiere tener configurado `pyenv` para acceder a los filtros desde Python.
-
----
-
 ## ⚙️ Requisitos
 
 ```bash
