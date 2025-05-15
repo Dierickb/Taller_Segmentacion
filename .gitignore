@@ -1,0 +1,5 @@
+# Ignorar todos los archivos .nii en todo el proyecto
+*.nii
+
+# EXCEPTO los que están en la carpeta images/usar/
+!examples/images/OriginalImages/*.nii
